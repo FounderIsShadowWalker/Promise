@@ -26,7 +26,7 @@
 
 ***
 ##### 我是爱读源码的顺顺
-![Image](http://https://github.com/FounderIsShadowWalker/Promise/founder.jpg)
+![Image](https://github.com/FounderIsShadowWalker/Promise/founder.jpg)
 
 
 
